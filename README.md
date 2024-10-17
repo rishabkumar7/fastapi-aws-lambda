@@ -1,6 +1,4 @@
-# fastapi-aws-lambda
-
-# FastAPI AWS Lambda Demo
+# FastAPI App on AWS Lambda
 
 This repository is a demo for hosting a FastAPI application on AWS Lambda using Mangum.
 
@@ -62,4 +60,4 @@ Compress-Archive .\main.py -Update aws_lambda.zip
 
 ## Demo
 
-![]()
+![https://img.youtube.com/vi/b0XCH04K8eQ/maxresdefault.jpg](https://youtu.be/b0XCH04K8eQ)
