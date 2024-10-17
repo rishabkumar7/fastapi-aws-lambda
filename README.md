@@ -60,4 +60,4 @@ Compress-Archive .\main.py -Update aws_lambda.zip
 
 ## Demo
 
-![https://img.youtube.com/vi/b0XCH04K8eQ/maxresdefault.jpg](https://youtu.be/b0XCH04K8eQ)
+[![Deploy FastAPI to AWS Lambda](https://img.youtube.com/vi/b0XCH04K8eQ/maxresdefault.jpg)](https://youtu.be/b0XCH04K8eQ)
